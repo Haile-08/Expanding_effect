@@ -41,5 +41,7 @@ body{
 }
 .panel.active h3{
     opacity: 1;
+    padding-left: 90px;
 }
+
 
